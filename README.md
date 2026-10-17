@@ -1,4 +1,4 @@
-# Ram Kumar V --- Data Science Portfolio
+# Portfolio
 
 This repository contains my personal portfolio website, built with HTML
 and CSS to showcase my resume, technical skills, internships, projects,
