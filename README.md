@@ -30,43 +30,6 @@ dashboards.
     disaster-related tweets using text preprocessing, TF-IDF features,
     and machine learning classifiers.
 
-## Skills
-
--   **Programming:** Python, SQL, Java, C
--   **Machine Learning:** Scikit-learn, XGBoost, Random Forest,
-    regression, classification, model evaluation, feature engineering
--   **Data Analysis:** Pandas, NumPy, data cleaning, EDA, statistical
-    analysis, data visualization, data preprocessing
--   **Tools & Platforms:** MySQL, Power BI, Plotly, Streamlit, Git,
-    GitHub, Jupyter Notebook, VS Code
-
-## Experience
-
--   **Java Full Stack Development Intern --- FemtoSoft Technologies,
-    Chennai**\
-    July 2025 -- August 2025\
-    Worked with Java, MySQL, HTML, CSS, and JavaScript on application
-    modules, database operations, and frontend/backend integration.
-
--   **Data Science with Python Intern --- Skillforge, Madurai**\
-    March 2025 -- April 2025\
-    Worked on data preprocessing, cleaning, feature engineering,
-    exploratory data analysis, and machine learning model training and
-    evaluation using Python libraries.
-
-## Education
-
-**B.E. Computer Science and Engineering**\
-Government College of Engineering, Bodinayakanur, India\
-**CGPA:** 8.30 · **November 2022 -- May 2026**
-
-## Certifications
-
--   DBMS --- NPTEL
--   Python for Data Science, AI & Development --- Coursera
--   Data Analysis with Python --- Coursera
--   Machine Learning with Python --- Coursera
-
 ## Connect With Me
 
 -   **GitHub:** https://github.com/ramkumar2822005-cmyk
